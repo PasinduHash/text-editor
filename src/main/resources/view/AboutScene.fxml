@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.AboutSceneController">
+   <children>
+      <VBox alignment="CENTER" layoutX="29.0" layoutY="23.0" prefHeight="270.0" prefWidth="334.0" spacing="15.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <children>
+            <ImageView fitHeight="97.0" fitWidth="97.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/note.png" />
+               </image>
+            </ImageView>
+            <Label text="1.0.0" />
+            <Label text="WriteMate is a small and lightweight text editor" />
+            <Hyperlink text="www.writemate.com" />
+            <Label layoutX="123.0" layoutY="188.0" text="Credit - Pasindu Weerasingha">
+               <font>
+                  <Font name="FreeSans Bold" size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="159.0" layoutY="215.0" text="Copyright 2023 – the WriteMate team" />
+            <Label layoutX="103.0" layoutY="246.0" text="This program comes with absolutely no warranty" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
