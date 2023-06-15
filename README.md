@@ -20,7 +20,7 @@ This is a simple text editor developed in Java, utilizing JavaFX for the graphic
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Projects-by-Pasindu/text-editor.git
+1. Clone the repository: git clone https://github.com/PasinduHash/text-editor.git
 2. Open the project in your preferred Java development environment (e.g., IntelliJ, Eclipse).
 
 3. Build and run the project.
