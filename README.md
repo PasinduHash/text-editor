@@ -3,6 +3,9 @@
 ![Java](https://img.shields.io/badge/Java-Language-orange) ![JavaFX](https://img.shields.io/badge/JavaFX-Framework-brightgreen)
 
 This is a simple text editor developed in Java, utilizing JavaFX for the graphical user interface (GUI) and file input/output functionality. The text editor provides essential features for creating, opening, saving, and closing text files, along with basic text editing tools.
+##
+![image](https://github.com/PasinduHash/text-editor/assets/117537549/afcf7f2a-a3bb-4024-8303-cbb8f2fb48d2)
+
 
 ## Features
 
